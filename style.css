@@ -1,0 +1,26 @@
+#canvas-area {
+  background-color: grey;
+  position: relative;
+}
+
+.element {
+  position: absolute;
+  width: 100px;
+  height: 200px;
+  background-color: red;
+}
+
+#grid {
+  grid-template-areas:
+    "header"
+    "main"
+    "footer";
+}
+
+header {
+  grid-area: header;
+}
+
+footer {
+  grid-area: footer;
+}
