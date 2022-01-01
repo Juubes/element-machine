@@ -1,6 +1,6 @@
 # ElementMachine
 
-ElementMachine is a web development practise project based on some existing games such as Little Alchemy. The idea is to over engineer a scalable cloud-based backend with Firebase and Google Cloud Platform.
+ElementMachine is a web development practise project based on some existing games such as Little Alchemy. The idea is to over engineer a scalable cloud-based backend with NextJS, Firebase and Google Cloud Platform.
 
 # Idea
 
